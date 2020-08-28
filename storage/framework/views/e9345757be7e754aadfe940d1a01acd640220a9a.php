@@ -98,4 +98,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH /home/david/Proyecto/blog/resources/views/welcome.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/david/Proyecto/Skimy/resources/views/welcome.blade.php ENDPATH**/ ?>

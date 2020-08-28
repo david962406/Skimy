@@ -15,4 +15,4 @@
 </div>
  
 </body>
-</html><?php /**PATH /home/david/Proyecto/blog/resources/views/master.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/david/Proyecto/Skimy/resources/views/master.blade.php ENDPATH**/ ?>
