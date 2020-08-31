@@ -18,3 +18,5 @@ Route::get('/', function () {
 });
 
 Route::resource('student','StudentControler');
+Route::get("/site","Youtube@index");
+Route::get("/prueba","StudentControler@store");
